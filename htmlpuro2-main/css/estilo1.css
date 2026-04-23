@@ -1,0 +1,17 @@
+body{
+    background-image: url("../IMG/piscina.png");
+    background-color: #cccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: aliceblue;
+}
+a{
+    color: rgb(255, 255, 255);
+}

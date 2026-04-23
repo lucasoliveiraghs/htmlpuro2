@@ -1,0 +1,35 @@
+body{
+    background-image: url("../IMG/deserto.jpg");
+    background-color: #cccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table, TH, TD{
+   border: 1px solid rgb(31, 0, 142);
+   background-color: rgba(255, 211, 35, 0.117);
+   font-size: 20px;
+}
+th{
+    color: black;
+}
+td{
+    color: aliceblue;
+}
+ul{
+    list-style-type: circle;
+    font-size: 20px;
+    color: aliceblue;
+}
+ol{
+    list-style-type: upper-roman;
+    font-size: 20px;
+    color: aliceblue;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: rgb(0, 0, 0);
+}
